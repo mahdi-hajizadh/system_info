@@ -13,7 +13,7 @@ Requirements:
     pip install psutil ttkbootstrap
 
 Run:
-    python system_info_updated.py
+    python system_info.py
 """
 
 import platform
